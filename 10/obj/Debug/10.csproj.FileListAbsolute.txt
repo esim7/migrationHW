@@ -1,0 +1,14 @@
+C:\Users\home\source\repos\10\10\bin\Debug\10.exe.config
+C:\Users\home\source\repos\10\10\bin\Debug\10.exe
+C:\Users\home\source\repos\10\10\bin\Debug\10.pdb
+C:\Users\home\source\repos\10\10\bin\Debug\EntityFramework.dll
+C:\Users\home\source\repos\10\10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\home\source\repos\10\10\bin\Debug\EntityFramework.xml
+C:\Users\home\source\repos\10\10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\home\source\repos\10\10\obj\Debug\10.csprojAssemblyReference.cache
+C:\Users\home\source\repos\10\10\obj\Debug\10.csproj.CopyComplete
+C:\Users\home\source\repos\10\10\obj\Debug\10.exe
+C:\Users\home\source\repos\10\10\obj\Debug\10.pdb
+C:\Users\home\source\repos\10\10\obj\Debug\_10.Migrations.InitialCreate.resources
+C:\Users\home\source\repos\10\10\obj\Debug\10.csproj.GenerateResource.cache
+C:\Users\home\source\repos\10\10\obj\Debug\_10.Migrations.AddBossWorkerMigration.resources
